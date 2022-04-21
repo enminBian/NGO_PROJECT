@@ -28,8 +28,8 @@ Partner In Health bring the benefits of modern medicine to those who have suffer
 
 - Login Page
 - For User Login
-- User Name: 123456
-- Password: 123456
+User Name: 123456
+Password: 123456
 ![image](https://github.com/enminBian/imagesave/blob/main/Login%20Page.jpg)
 
 - Website Page
