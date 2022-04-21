@@ -1,6 +1,6 @@
 # NGO_PROJECT: Partner In Health 2022
 
-https://github.com/enminBian/NGO_PROJECT/blob/main/vue/src/assets/images/logo-orange.png
+![image](https://github.com/enminBian/NGO_PROJECT/blob/main/vue/src/assets/images/logo-orange.png)
 
 # About Partner In Health
 
